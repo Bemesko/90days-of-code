@@ -1,6 +1,8 @@
-# 90days-of-code
+# 90 Days of Code Challenge
 
 ### 👨‍💻 Creating small projects, learning new technologies and studying every day 👩‍💻
+
+This is an initiative me and [@maria-c2003](https://github.com/maria-c2003/) made in order to create a habit of practicing a bit of programming or studying some new technology everyday. We split the 90 days into 10 different tools we wanted to learn a bit more about, and each day of the challenge we will work in a small project using the tool being studied.
 
 </br>
 
