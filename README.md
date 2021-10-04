@@ -7,9 +7,9 @@
 ## JavaScript
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-- [ ]  01/10
-- [ ]  02/10
-- [ ]  03/10
+- [X]  01/10
+- [X]  02/10
+- [X]  03/10
 - [ ]  04/10
 - [ ]  05/10
 - [ ]  06/10
@@ -37,6 +37,8 @@
 </br>
 
 ## Backend
+
+<img height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs_small.svg" />
 
 - [ ]  21/10
 - [ ]  22/10
@@ -67,7 +69,7 @@
 
 </br>
 
-## DJango
+## Django
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
 
 - [ ]  10/11
@@ -84,6 +86,7 @@
 </br>
 
 ## Powershell
+<img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" />
 
 - [ ]  20/11
 - [ ]  21/11
