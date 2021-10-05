@@ -1,15 +1,17 @@
-# 90days-of-code
+# 90 Days of Code Challenge
 
 ### 👨‍💻 Creating small projects, learning new technologies and studying every day 👩‍💻
+
+This is an initiative me and [@maria-c2003](https://github.com/maria-c2003/) made in order to create a habit of practicing a bit of programming or studying some new technology everyday. We split the 90 days into 10 different tools we wanted to learn a bit more about, and each day of the challenge we will work in a small project using the tool being studied.
 
 </br>
 
 ## JavaScript
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-- [ ]  01/10
-- [ ]  02/10
-- [ ]  03/10
+- [X]  01/10
+- [X]  02/10
+- [X]  03/10
 - [ ]  04/10
 - [ ]  05/10
 - [ ]  06/10
@@ -37,6 +39,8 @@
 </br>
 
 ## Backend
+
+<img height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs_small.svg" />
 
 - [ ]  21/10
 - [ ]  22/10
@@ -67,7 +71,7 @@
 
 </br>
 
-## DJango
+## Django
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
 
 - [ ]  10/11
@@ -84,6 +88,7 @@
 </br>
 
 ## Powershell
+<img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" />
 
 - [ ]  20/11
 - [ ]  21/11
