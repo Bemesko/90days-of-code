@@ -4,6 +4,10 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+hr {
+  width: 80%;
+}
+
 .sidebar {
   height: 100%; /* Full-height: remove this if you want "auto" height */
   width: 160px;
@@ -39,6 +43,21 @@ body {
 .callout {
   font-style: italic;
   padding: 40px 15% 40px 15%;
+}
+
+.wrapper {
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+}
+
+.prog-hl {
+  width: 50%;
+  float: left;
+}
+
+.best-games {
+  margin-left: 50%;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
