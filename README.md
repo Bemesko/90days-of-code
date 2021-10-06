@@ -12,8 +12,8 @@ This is an initiative me and [@maria-c2003](https://github.com/maria-c2003/) mad
 - [X]  01/10
 - [X]  02/10
 - [X]  03/10
-- [ ]  04/10
-- [ ]  05/10
+- [X]  04/10
+- [X]  05/10
 - [ ]  06/10
 - [ ]  07/10
 - [ ]  08/10
