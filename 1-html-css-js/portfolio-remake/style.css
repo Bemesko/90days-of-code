@@ -25,7 +25,9 @@ hr {
   text-decoration: none;
   font-size: 25px;
   color: #30292f;
-  display: block;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 /* Style page content */
@@ -70,7 +72,7 @@ hr {
   width: 185px;
   height: 185px;
   border-radius: 20px;
-  margin: 10px;
+  margin: 10px 10px 0px 10px;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
