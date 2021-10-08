@@ -15,8 +15,8 @@ This is an initiative me and [@maria-c2003](https://github.com/maria-c2003/) mad
 - [X]  04/10
 - [X]  05/10
 - [X]  06/10
-- [ ]  07/10
-- [ ]  08/10
+- [X]  07/10
+- [ ]  08/10: Host repo in github pages
 - [ ]  09/10
 - [ ]  10/10
 
